@@ -1,0 +1,1 @@
+Ainda tem alguns itens para acertar, descricao de caso de uso, diagrama de classe. Na apresentacao focar mais no diagrama de caso de uso, classes e prototipos, não esquecer da conclusao. Sumiram as telas principais do protótipo? Todos faltaram.
